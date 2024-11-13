@@ -55,7 +55,7 @@ services:
     links:
      - kafka
      - mysql
-    environment:
+    environment: 
      - BOOTSTRAP_SERVERS=kafka:9092
      - GROUP_ID=1
      - CONFIG_STORAGE_TOPIC=my_connect_configs
