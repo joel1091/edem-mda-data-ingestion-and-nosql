@@ -1,0 +1,6 @@
+https://api.aviationstack.com/v1/flights
+    ? access_key = a1bc3216935df785209081736d06ff43
+    & airline_name={IBERIA}
+
+https://api.aviationstack.com/v1/flights?access_key=a1bc3216935df785209081736d06ff43&airline_name=IBERIA
+
